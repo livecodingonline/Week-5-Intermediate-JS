@@ -1,9 +1,11 @@
 ## Week-5-Intermediate-JS
-Dear Student of LiveCoding. Welcome to the 5th week of LiveCoding!
+Hello everyone. Welcome to the 5th week of LiveCoding!
 
-In this section the whole videos are only 1 hour. This is a looott less in comparison to the section before. Why?
+In this section the whole videos are only 1 hour. But you have at least 25 hours to spend right? This is also a lot less in comparison to the section before. Why?
 
 Because it is not enough if you undertstand that concepts without playing with them. That's why you have an extra time to absorb(this is important) these concepts. Understanding them is not enough per se. You need to be able to play around them easily and feel comfortable.
+
+Please be aware that this section has effect on your future development career. Because what you will learn here is going to be your best friend ever. Loops are one of the core methods of programming. There is no application in this world that doesn't contain a loop. So please spend a lot of time with it to make sure you are comfortable with it.
 
 ---
 
