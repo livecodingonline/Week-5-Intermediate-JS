@@ -1,4 +1,4 @@
-#@ Week-5-Intermediate-JS
+## Week-5-Intermediate-JS
 Dear Student of LiveCoding. Welcome to the 5th week of LiveCoding!
 
 In this section the whole videos are only 1 hour. This is a looott less in comparison to the section before. Why?
